@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohmeingaux.apptite.be/sitemap.xml
